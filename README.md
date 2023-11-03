@@ -1,8 +1,39 @@
-# React + Vite
+# sorting-products-ecommerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+this project made to practice context api for react and to make more advanced sorting showed products
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- searching between products
+- sorting them accourding price (ascending,descending)
+- sorting to show out of stock only
+- sorting accourding to their number of rated stars
+- sorting accourding to show fast delivery only products
+- clearing filters
+- adding products to cart
+- removing product from cart
+- increasing the product quantity
+- no of items in cart
+- total price
+
+## Technologies Used
+
+- used react 
+- react-bootstrap
+- react-router-dom
+- faker
+
+## Demo
+
+* you can use it from here: https://sorting-ecommerce-products-web-application.vercel.app/
+
+## Contact
+
+- if you find any problem you can reach me through: hamozaar07@gmail.com
+
+
+---
+
+[Report a Bug](https://github.com/hamoz07/sorting-ecommerce-products-web-application/issues) | [Request a Feature](https://github.com/hamoz07/sorting-ecommerce-products-web-application/issues)
