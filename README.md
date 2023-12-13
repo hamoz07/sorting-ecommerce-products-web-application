@@ -15,7 +15,6 @@ this project made to practice context api for react and to make more advanced so
 - adding products to cart
 - removing product from cart
 - increasing the product quantity
-- no of items in cart
 - total price
 
 ## Technologies Used
